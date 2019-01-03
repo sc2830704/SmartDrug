@@ -1,0 +1,7 @@
+#Wed Sep 27 22:21:09 ULAST 2017
+base.0=I\:\\Dropbox\\AdroidProject\\SmartDrug\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9338c090b49daec86453f6be2aaaef4099c34903
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=I\:\\Dropbox\\AdroidProject\\SmartDrug\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac2e71bef82fc3b1817f300ded1291393a287857\\classes.dex
+base.1=I\:\\Dropbox\\AdroidProject\\SmartDrug\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ac2e71bef82fc3b1817f300ded1291393a287857
+file.0=I\:\\Dropbox\\AdroidProject\\SmartDrug\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9338c090b49daec86453f6be2aaaef4099c34903\\classes.dex

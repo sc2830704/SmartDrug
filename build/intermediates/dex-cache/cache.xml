@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\adfe1ce998b0bec9b9c023e1f0630c709eb5968c\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_d94e8bda31a1a12597fb9b92b568dbc89ace6485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\e51972a9beafe0375bf46d8253e278734775510f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb74b44d308c518dcb3756892565690a7c7aeb46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\3ff0921e8e88196f7c6682ed6756b0d6efbae5b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11462141a11f6070ba74680dd0d0ec89385db52e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Dropbox\AdroidProject\SmartDrug\app\libs\achartengine-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\2\achartengine-1.0.0_e23abd8ae520b02171021c4865a2f5345210aba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\428c0bf6a9a97aa2bf607399186d46c8eaa78265\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec98f88735123d0d9aadf743094604f192be706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_3e4a7ec8bc777292f0cb42e6774d3044d9589923\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\428c0bf6a9a97aa2bf607399186d46c8eaa78265\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_d9b08813069010a628ac820cdc7e8d440a50ee68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\adfe1ce998b0bec9b9c023e1f0630c709eb5968c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faa8dc9a57a53546de00def3de4167c30ec73235\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd90a66ffef5e4677927059b07547157980e510e">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ac2e71bef82fc3b1817f300ded1291393a287857\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitlab_raymond\.android\build-cache\fa9978bf703be4e021e6c030f3729f16f8a300d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbebde27077098bba96160d920211cf934a4faf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\Dropbox\AdroidProject\SmartDrug\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9338c090b49daec86453f6be2aaaef4099c34903\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ray\\Downloads\\SmartDrug\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Ray\\.android\\build-cache\\813ca644c33e9c10dda51a56ca31e38ab0a22c7a\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "I:\\Dropbox\\AdroidProject\\SmartDrug\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\mitlab_raymond\\.android\\build-cache\\e51972a9beafe0375bf46d8253e278734775510f\\output\\res\\values-hdpi\\values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    }
+]

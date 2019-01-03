@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "I:\\Dropbox\\AdroidProject\\SmartDrug\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\mitlab_raymond\\.android\\build-cache\\e51972a9beafe0375bf46d8253e278734775510f\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 61,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\mitlab_raymond\\.android\\build-cache\\e51972a9beafe0375bf46d8253e278734775510f\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 71,
+                        "endOffset": 653
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Ray\\Downloads\\SmartDrug\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Users\\Ray\\.android\\build-cache\\813ca644c33e9c10dda51a56ca31e38ab0a22c7a\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 61,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "C:\\Users\\Ray\\.android\\build-cache\\813ca644c33e9c10dda51a56ca31e38ab0a22c7a\\output\\res\\values-w480dp\\values-w480dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 71,
+                        "endOffset": 653
+                    }
+                }
+            }
+        ]
+    }
+]
